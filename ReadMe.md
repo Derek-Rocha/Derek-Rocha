@@ -1,15 +1,64 @@
-# 💫 About Me:
-Oii eu sou o Derek e estou aprendendo programação<br>Faculdade: Ciência da computção
+# 🧑🏽‍💻 Derek Alves
 
+**`Estudante de Ciência da Computação`**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Derek-Rocha&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Derek-Rocha&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Rocha&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Meu nome é Derek, tenho 21 anos e sou estudante de Ciência da Computação. Estou mergulhando nesse universo de tecnologia e aprendizado, buscando expandir meus conhecimentos e abrir caminhos para o futuro. Cada dia nos estudos é uma nova oportunidade de superar desafios e crescer tanto pessoal quanto profissionalmente.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Derek-Rocha&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤖 Linguagens e Tecnologia
+
+
+ <img 
+    align = "left"
+    alt = "HTML"
+    title="HTML"
+    width = "30px"
+    style = "padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+ <img 
+  align = "left"
+    alt = "CSS"
+    title="CSS"
+    width = "30px"
+    style = "padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+ 
+<img
+align = "left"
+    alt = "JAVASCRIPT"
+    title="JAVASCRIPT"
+    width = "30px"
+    style = "padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+ <img
+    align = "left"
+    alt = "REACT"
+    title="REACT"
+    width = "30px"
+    style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+  
+ <img
+  align = "left"
+    alt = "NEXT.js"
+    title="NEXT.js"
+    width = "30px"
+    style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
+          
+<img
+ align = "left"
+    alt = "GIT"
+    title="GIT"
+    width = "30px"
+    style = "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
+          
